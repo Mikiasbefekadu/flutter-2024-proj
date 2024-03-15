@@ -8,7 +8,7 @@
 | Name              | UGR           |
 | ----------------  |:-------------:|
 | Nahom Garefo      | UGR/6739/14 |
-| Mikias Befekadu   | UGR/9340/14 |
+| Mikias Befekadu   | UGR/9340/13 |
 | Feysel Hussien    | UGR/5898/14 |
 | Owalabu Toloessa  | UGR/3478/14 |
 
